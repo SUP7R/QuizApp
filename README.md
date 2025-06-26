@@ -56,25 +56,25 @@ Whether you're reviewing for study or seeking a challenge, Quiz App provides an 
 ## App Screenshots 📸 
 
 
-  ![4](https://github.com/user-attachments/assets/acda5f51-d744-4277-a2a3-afe69525c9de)
+![4](https://github.com/user-attachments/assets/acda5f51-d744-4277-a2a3-afe69525c9de)
 
 
-  ![1](https://github.com/user-attachments/assets/98222f81-46a3-439a-a82e-0c7b5f8d8546)
+![1](https://github.com/user-attachments/assets/98222f81-46a3-439a-a82e-0c7b5f8d8546)
 
 
-  ![8](https://github.com/user-attachments/assets/9b2a8ab5-bc27-4056-b546-bbf2c7c9eb24)
+![8](https://github.com/user-attachments/assets/9b2a8ab5-bc27-4056-b546-bbf2c7c9eb24)
 
 
-  ![6](https://github.com/user-attachments/assets/5ca5b126-381b-438c-a44f-a4d4504d40c2)
+![6](https://github.com/user-attachments/assets/5ca5b126-381b-438c-a44f-a4d4504d40c2)
 
 
-  ![5](https://github.com/user-attachments/assets/9b9bbe94-188d-47f2-b6e0-0c0942b13088)
+![5](https://github.com/user-attachments/assets/9b9bbe94-188d-47f2-b6e0-0c0942b13088)
 
 
-  ![7](https://github.com/user-attachments/assets/56083b59-323c-44a4-ab45-9ff739fd814a)
+![7](https://github.com/user-attachments/assets/56083b59-323c-44a4-ab45-9ff739fd814a)
 
 
-  ![2](https://github.com/user-attachments/assets/7b12fc75-c0cf-49ea-8841-58cb9472de36)
+![2](https://github.com/user-attachments/assets/7b12fc75-c0cf-49ea-8841-58cb9472de36)
 
 
 
