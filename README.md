@@ -44,7 +44,7 @@ Designed for Android devices
 ## Technologies Used 🛠️ 
 Java (for app development)
 
-HTML + CSS (for the UI)
+XML + HTML + CSS (for the UI)
 
 Firebase (for data storage and authentication)
 
@@ -56,24 +56,29 @@ Whether you're reviewing for study or seeking a challenge, Quiz App provides an 
 ## App Screenshots 📸 
 
 
-![4](https://github.com/user-attachments/assets/acda5f51-d744-4277-a2a3-afe69525c9de)
+![4](https://github.com/user-attachments/assets/fce0c8f8-e2f8-4bc4-97cc-d37c421a2302)
 
 
-![1](https://github.com/user-attachments/assets/98222f81-46a3-439a-a82e-0c7b5f8d8546)
+![1](https://github.com/user-attachments/assets/9777e03c-1e57-456f-9cc2-70fd51520d09)
 
 
-![8](https://github.com/user-attachments/assets/9b2a8ab5-bc27-4056-b546-bbf2c7c9eb24)
+![8](https://github.com/user-attachments/assets/05e15ee2-cc48-46f2-acad-b8fc39d01c09)
 
 
-![6](https://github.com/user-attachments/assets/5ca5b126-381b-438c-a44f-a4d4504d40c2)
+![6](https://github.com/user-attachments/assets/059ddaf1-bc2c-4e08-a6bb-9c8949d176bd)
 
 
-![5](https://github.com/user-attachments/assets/9b9bbe94-188d-47f2-b6e0-0c0942b13088)
-
-![7](https://github.com/user-attachments/assets/eb436fe6-8318-4a4d-8e7c-438cb2c5d38f)
+![5](https://github.com/user-attachments/assets/dc8153c3-c1ae-4b69-9a1b-a5a2ff49f643)
 
 
-![2](https://github.com/user-attachments/assets/7b12fc75-c0cf-49ea-8841-58cb9472de36)
+![7](https://github.com/user-attachments/assets/c0961fb4-f4a4-44af-8c56-695ba76ec8cb)
+
+
+![2](https://github.com/user-attachments/assets/d18f0c4b-4a54-4775-bfa6-d1a819d9cd87)
+
+
+
+
 
 
 
