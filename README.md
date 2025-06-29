@@ -70,8 +70,7 @@ Whether you're reviewing for study or seeking a challenge, Quiz App provides an 
 
 ![5](https://github.com/user-attachments/assets/9b9bbe94-188d-47f2-b6e0-0c0942b13088)
 
-
-![7](https://github.com/user-attachments/assets/56083b59-323c-44a4-ab45-9ff739fd814a)
+![7](https://github.com/user-attachments/assets/eb436fe6-8318-4a4d-8e7c-438cb2c5d38f)
 
 
 ![2](https://github.com/user-attachments/assets/7b12fc75-c0cf-49ea-8841-58cb9472de36)
